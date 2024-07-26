@@ -1,0 +1,1 @@
+The database tracks students’ performance, courses, teachers, and activities. It helps with enrollment by assessing eligibility and identifies awards and grants based on academics and extracurriculars.
